@@ -1,0 +1,33 @@
+.navbar{
+    background-color:blanchedalmond;
+    margin: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+.navbar a:hover{
+    color:darkgray;
+    background-color:cornsilk;
+}
+
+.partition{
+    background-color:rgba(99, 94, 94, 0.637);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 5px solid black;
+    color: white;
+}
+
+
+body{
+    background-image: url('./b2.jpg');
+    background-size: cover;
+    height: 100px;
+}
+
+.footer-copy {
+    background-color:orange;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
